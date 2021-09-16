@@ -32,7 +32,11 @@
  </ul>
  
  <hr>
-  
+<h2> <em> License </em> </h2>
+
+<p> GNU General Public License v3.0 - Please click <a href= "https://choosealicense.com/licenses/gpl-3.0/" target="_blank"> here </a> </p>
+
+<hr>
 <strong> <em> <h2> Contact details </h2> </em> </strong>
 
    <p> - Lucila Kalbermatter - <em> Delivery Hero Tech Academy </em> </p>
